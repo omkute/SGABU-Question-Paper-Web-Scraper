@@ -1,0 +1,11 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.Tech/Chemical Engineering/Sem VI
+
+| File Name | URL |
+|------------|-----|
+| AF3079%20-%20Subject%20-%20Chemical%20Engineering%20Process-II%20%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VI/AF3079%20-%20Subject%20-%20Chemical%20Engineering%20Process-II%20%20(1).pdf) |
+| AF3079%20-%20Subject%20-%20Chemical%20Engineering%20Process-II%20%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VI/AF3079%20-%20Subject%20-%20Chemical%20Engineering%20Process-II%20%20(2).pdf) |
+| AF3080%20-%20Subject%20-%20Computer%20Programming%20Application%20-%206%20CH%2003%20%20-%20Year%20-%20%20B.Tech.%20Sixth%20Semester%20(Chemical%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VI/AF3080%20-%20Subject%20-%20Computer%20Programming%20Application%20-%206%20CH%2003%20%20-%20Year%20-%20%20B.Tech.%20Sixth%20Semester%20(Chemical%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf) |
+| AF3084%20-%20Subject%20-%20Open%20Elective-II%20-%20Composite%20Technology%20-%206%20CT%2005%20%20-%20Year%20-%20%20B.Tech.%20Sixth%20Semester%20(Chemical%20Technology)%20(C.B.C.S.)%20Summer%202024.pd | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VI/AF3084%20-%20Subject%20-%20Open%20Elective-II%20-%20Composite%20Technology%20-%206%20CT%2005%20%20-%20Year%20-%20%20B.Tech.%20Sixth%20Semester%20(Chemical%20Technology)%20(C.B.C.S.)%20Summer%202024.pdf) |
+| AF3085%20-%20Subject%20-%20Open%20Elective-II%20-%20Chemical%20Technology%20-%206%20CH%2005%20%20-%20Year%20-%20%20B.Tech.%20Sixth%20Semester%20(Chemical%20Engineering)%20(C.B.C.S.)%20Summer%202024.pd | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VI/AF3085%20-%20Subject%20-%20Open%20Elective-II%20-%20Chemical%20Technology%20-%206%20CH%2005%20%20-%20Year%20-%20%20B.Tech.%20Sixth%20Semester%20(Chemical%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf) |
+
+---

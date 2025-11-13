@@ -1,0 +1,13 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.E/Artificial Intelligence Data Science/Sem VI
+
+| File Name | URL |
+|------------|-----|
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(1).pdf) |
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(2).pdf) |
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(3).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(3).pdf) |
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(4).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(4).pdf) |
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(5).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(5).pdf) |
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(6).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(6).pdf) |
+| AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(7).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Artificial%20Intelligence%20Data%20Science/Sem%20VI/AF3067%20-%20Subject%20-%20Professional%20Elective-II%20-%20Cryptography%20-%206%20AD%2004%20%20(7).pdf) |
+
+---

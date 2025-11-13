@@ -1,0 +1,13 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B. A/B. A.Social Work/Sem I
+
+| File Name | URL |
+|------------|-----|
+| 1499_COMPULSORY%20ENGLISH_%20PART_I_1668_(01-06-24%2007_31_45_212%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1499_COMPULSORY%20ENGLISH_%20PART_I_1668_(01-06-24%2007_31_45_212%20AM).pdf) |
+| 1501_SOCIOLOGY%20PART_I_2219_(06-06-24%2007_33_47_012%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1501_SOCIOLOGY%20PART_I_2219_(06-06-24%2007_33_47_012%20AM).pdf) |
+| 1502_PSYCHOLOGY%20PART_I_2553_(08-06-24%2007_31_36_267%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1502_PSYCHOLOGY%20PART_I_2553_(08-06-24%2007_31_36_267%20AM).pdf) |
+| 1503_INTRODUCTION%20TO%20PROFESSIONAL%20SOCIAL%20WORK_2897_(11-06-24%2007_26_25_991%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1503_INTRODUCTION%20TO%20PROFESSIONAL%20SOCIAL%20WORK_2897_(11-06-24%2007_26_25_991%20AM).pdf) |
+| 1504_INDIAN%20IDEOLOGIES%20OF%20SOCIAL%20WORK_3224_(13-06-24%2007_50_00_108%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1504_INDIAN%20IDEOLOGIES%20OF%20SOCIAL%20WORK_3224_(13-06-24%2007_50_00_108%20AM).pdf) |
+| 1505_WORKING%20WITH%20INDIVIDUALS%20and%20FAMILIES%20(SOCIAL%20CASE%20WORK)_PART_I_3590_(15-06-24%2008_04_32_558%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1505_WORKING%20WITH%20INDIVIDUALS%20and%20FAMILIES%20(SOCIAL%20CASE%20WORK)_PART_I_3590_(15-06-24%2008_04_32_558%20AM).pdf) |
+| 1506_CHILDERN%20IN%20DIFFICULT%20SITUATION_3957_(19-06-2024%2008_28_29_288%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.Social%20Work/Sem%20I/1506_CHILDERN%20IN%20DIFFICULT%20SITUATION_3957_(19-06-2024%2008_28_29_288%20AM).pdf) |
+
+---

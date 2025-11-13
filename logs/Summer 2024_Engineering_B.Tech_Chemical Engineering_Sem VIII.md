@@ -1,0 +1,13 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.Tech/Chemical Engineering/Sem VIII
+
+| File Name | URL |
+|------------|-----|
+| AF3510%20-%20Subject%20-%2011674%20-%20Transport%20Phenomena%20-%208%20CH%2001%20%20-%20Year%20-%20%20B.Tech.%20Eighth%20Semester%20(Chemical%20Engineering)%20(C.G.S.)%20Summer%202024.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3510%20-%20Subject%20-%2011674%20-%20Transport%20Phenomena%20-%208%20CH%2001%20%20-%20Year%20-%20%20B.Tech.%20Eighth%20Semester%20(Chemical%20Engineering)%20(C.G.S.)%20Summer%202024.pdf) |
+| AF3512%20-%20Subject%20-%2011676%20-%20System%20Modelling%20-%208%20CH%2003%20%20-%20Year%20-%20%20B.Tech.%20Eighth%20Semester%20(Chemical%20Engineering)%20(C.G.S.)%20Summer%202024.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3512%20-%20Subject%20-%2011676%20-%20System%20Modelling%20-%208%20CH%2003%20%20-%20Year%20-%20%20B.Tech.%20Eighth%20Semester%20(Chemical%20Engineering)%20(C.G.S.)%20Summer%202024.pdf) |
+| AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(1).pdf) |
+| AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(2).pdf) |
+| AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(3).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(3).pdf) |
+| AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(4).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(4).pdf) |
+| AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(5).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VIII/AF3524%20-%20Subject%20-%20Professional%20Core%20Course%20%20(5).pdf) |
+
+---

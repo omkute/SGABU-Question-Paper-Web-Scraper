@@ -1,0 +1,16 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B. A/B. A.journalism_Mass Communication/Sem II
+
+| File Name | URL |
+|------------|-----|
+| 1579_INTRODUCTION%20TO%20COMMUNICATION_II_837_(15-05-24%2008_07_40_308%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/1579_INTRODUCTION%20TO%20COMMUNICATION_II_837_(15-05-24%2008_07_40_308%20AM).pdf) |
+| 1580_COMMUNICATIVE%20ENGLISH_II_1023_(17-05-24%2007_47_31_873%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/1580_COMMUNICATIVE%20ENGLISH_II_1023_(17-05-24%2007_47_31_873%20AM).pdf) |
+| 1581_COMMUNICATIVE%20MARATHI_II_HINDI_II_1213_(20-05-24%2007_50_00_367%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/1581_COMMUNICATIVE%20MARATHI_II_HINDI_II_1213_(20-05-24%2007_50_00_367%20AM).pdf) |
+| 1582_INTRODUCTION%20TO%20MASS%20COMMUNICATION_1359_(22-05-24%2007_53_06_736%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/1582_INTRODUCTION%20TO%20MASS%20COMMUNICATION_1359_(22-05-24%2007_53_06_736%20AM).pdf) |
+| 1583_COMPUTER%20APPLICATION_II_1450_(25-05-24%2008_03_16_702%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/1583_COMPUTER%20APPLICATION_II_1450_(25-05-24%2008_03_16_702%20AM).pdf) |
+| 5200_2%20JMC%201%20INTRODUCTION%20TO%20COMMUNICATION_II_864_(15-05-24%2008_07_39_931%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/5200_2%20JMC%201%20INTRODUCTION%20TO%20COMMUNICATION_II_864_(15-05-24%2008_07_39_931%20AM).pdf) |
+| 5201_2%20JMC%202%20COMMUNICATIVE%20ENGLISH_II_1048_(17-05-24%2007_47_32_170%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/5201_2%20JMC%202%20COMMUNICATIVE%20ENGLISH_II_1048_(17-05-24%2007_47_32_170%20AM).pdf) |
+| 5202_2%20JMC%203%20COMMUNICATIVE%20SKILL%20IN%20MARATHI_%20HINDI_II_1252_(20-05-24%2007_50_00_320%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/5202_2%20JMC%203%20COMMUNICATIVE%20SKILL%20IN%20MARATHI_%20HINDI_II_1252_(20-05-24%2007_50_00_320%20AM).pdf) |
+| 5203_2%20JMC%204%20INTRODUCTION%20TO%20MASS%20COMMUNICATION_1380_(22-05-24%2007_53_06_646%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/5203_2%20JMC%204%20INTRODUCTION%20TO%20MASS%20COMMUNICATION_1380_(22-05-24%2007_53_06_646%20AM).pdf) |
+| 5204_2%20JMC%205%20COMPUTER%20APPLICATION_II_1468_(25-05-24%2008_03_16_690%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.%20A/B.%20A.journalism_Mass%20Communication/Sem%20II/5204_2%20JMC%205%20COMPUTER%20APPLICATION_II_1468_(25-05-24%2008_03_16_690%20AM).pdf) |
+
+---

@@ -1,0 +1,20 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B.S.W/Sem IV
+
+| File Name | URL |
+|------------|-----|
+| 1475_ENGLISH_II_155_(03-05-24%2007_35_50_404%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1475_ENGLISH_II_155_(03-05-24%2007_35_50_404%20AM).pdf) |
+| 1476_MARATHI_II_344_(06-05-24%2007_50_06_563%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1476_MARATHI_II_344_(06-05-24%2007_50_06_563%20AM).pdf) |
+| 1477_PSYCHOLOGY_II_591_(08-05-24%2007_57_38_379%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1477_PSYCHOLOGY_II_591_(08-05-24%2007_57_38_379%20AM).pdf) |
+| 1478_SOCIOLOGY_II_838_(15-05-24%2008_07_40_257%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1478_SOCIOLOGY_II_838_(15-05-24%2008_07_40_257%20AM).pdf) |
+| 1479_WORKING%20WITH%20GROUP_II_1024_(17-05-24%2007_47_31_832%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1479_WORKING%20WITH%20GROUP_II_1024_(17-05-24%2007_47_31_832%20AM).pdf) |
+| 1480_PSYCHIATRIC%20SOCIAL%20WORK_1214_(20-05-24%2007_50_00_337%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1480_PSYCHIATRIC%20SOCIAL%20WORK_1214_(20-05-24%2007_50_00_337%20AM).pdf) |
+| 1481_VULNERABLE%20CHILDREN_1360_(22-05-24%2007_53_06_718%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1481_VULNERABLE%20CHILDREN_1360_(22-05-24%2007_53_06_718%20AM).pdf) |
+| 1482_SOCIAL%20RESEARCH%20AND%20COMPUTER%20APPLICATION_II_1451_(25-05-24%2008_03_16_679%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/1482_SOCIAL%20RESEARCH%20AND%20COMPUTER%20APPLICATION_II_1451_(25-05-24%2008_03_16_679%20AM).pdf) |
+| 5163_DSC_1%20FILEDS%20OF%20SOCIAL%20WORK_3254_(13-06-24%2007_50_00_310%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/5163_DSC_1%20FILEDS%20OF%20SOCIAL%20WORK_3254_(13-06-24%2007_50_00_310%20AM).pdf) |
+| 5164_DSC_2%20SITUATION%20OF%20WOMEN_3613_(15-06-24%2008_04_32_435%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/5164_DSC_2%20SITUATION%20OF%20WOMEN_3613_(15-06-24%2008_04_32_435%20AM).pdf) |
+| 5165_DSC_3%20SOCIOLOGY_3978_(19-06-2024%2008_28_29_632%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/5165_DSC_3%20SOCIOLOGY_3978_(19-06-2024%2008_28_29_632%20AM).pdf) |
+| 5166_DSC_4%20PSYCHOLOGY%20(SOCIAL%20PSYCHOLOGY%20FOR%20SOCIAL%20WORKERS)_4237_(21-06-24%2007_39_15_027%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/5166_DSC_4%20PSYCHOLOGY%20(SOCIAL%20PSYCHOLOGY%20FOR%20SOCIAL%20WORKERS)_4237_(21-06-24%2007_39_15_027%20AM).pdf) |
+| 5167_DSC_5%20COMMUNICATION%20SKILL%20IN%20ENGLISH_4386_(24-06-24%2007_44_46_122%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/5167_DSC_5%20COMMUNICATION%20SKILL%20IN%20ENGLISH_4386_(24-06-24%2007_44_46_122%20AM).pdf) |
+| 5168_DSC_6%20COMMUNICATION%20SKILL%20IN%20MARATHI_4519_(26-06-24%2008_08_29_451%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.S.W/Sem%20IV/5168_DSC_6%20COMMUNICATION%20SKILL%20IN%20MARATHI_4519_(26-06-24%2008_08_29_451%20AM).pdf) |
+
+---

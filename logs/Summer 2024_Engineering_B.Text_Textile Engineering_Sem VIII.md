@@ -1,0 +1,11 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.Text/Textile Engineering/Sem VIII
+
+| File Name | URL |
+|------------|-----|
+| AF3557%20-%20Subject%20-%20Non-Woven%20Technology%20-%208%20TX%2001%20%20-%20Year%20-%20%20B.Text.%20Eighth%20Semester%20(Textile%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Text/Textile%20Engineering/Sem%20VIII/AF3557%20-%20Subject%20-%20Non-Woven%20Technology%20-%208%20TX%2001%20%20-%20Year%20-%20%20B.Text.%20Eighth%20Semester%20(Textile%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf) |
+| AF3558%20-%20Subject%20-%20Apparel%20Merchandizing%20-%208%20TX%2002%20%20-%20Year%20-%20%20B.Text.%20Eighth%20Semester%20(Textile%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Text/Textile%20Engineering/Sem%20VIII/AF3558%20-%20Subject%20-%20Apparel%20Merchandizing%20-%208%20TX%2002%20%20-%20Year%20-%20%20B.Text.%20Eighth%20Semester%20(Textile%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf) |
+| AF3559%20-%20Subject%20-%20Elements%20of%20Costing%20and%20Economics%20-%208%20TX%2003%20%20-%20Year%20-%20%20B.Text.%20Eighth%20Semester%20(Textile%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Text/Textile%20Engineering/Sem%20VIII/AF3559%20-%20Subject%20-%20Elements%20of%20Costing%20and%20Economics%20-%208%20TX%2003%20%20-%20Year%20-%20%20B.Text.%20Eighth%20Semester%20(Textile%20Engineering)%20(C.B.C.S.)%20Summer%202024.pdf) |
+| AF3561%20-%20Subject%20-%20Professional%20Elective-IV%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Text/Textile%20Engineering/Sem%20VIII/AF3561%20-%20Subject%20-%20Professional%20Elective-IV%20(1).pdf) |
+| AF3561%20-%20Subject%20-%20Professional%20Elective-IV%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Text/Textile%20Engineering/Sem%20VIII/AF3561%20-%20Subject%20-%20Professional%20Elective-IV%20(2).pdf) |
+
+---

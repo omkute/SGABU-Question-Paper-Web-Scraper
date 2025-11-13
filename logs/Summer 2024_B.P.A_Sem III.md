@@ -1,0 +1,17 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B.P.A/Sem III
+
+| File Name | URL |
+|------------|-----|
+| 1381_COMPULSORY%20LANGUAGE%20MARATHI_3064_(12-06-24%2007_32_31_819%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/1381_COMPULSORY%20LANGUAGE%20MARATHI_3064_(12-06-24%2007_32_31_819%20AM).pdf) |
+| 5260_BPA%20301%20COMPULSORY%20ENGLISH_2742_(10-06-24%2007_32_24_390%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5260_BPA%20301%20COMPULSORY%20ENGLISH_2742_(10-06-24%2007_32_24_390%20AM).pdf) |
+| 5261_BPA%20302%20MARATHI_3081_(12-06-24%2007_32_32_168%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5261_BPA%20302%20MARATHI_3081_(12-06-24%2007_32_32_168%20AM).pdf) |
+| 5262_BPA%20303%20HINDI_3082_(12-06-24%2007_32_32_125%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5262_BPA%20303%20HINDI_3082_(12-06-24%2007_32_32_125%20AM).pdf) |
+| 5263_BPA%20304%20HERITAGE%20OF%20INDIAN%20ARTS%20and%20CULTURE_3414_(14-06-24%2007_42_33_667%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5263_BPA%20304%20HERITAGE%20OF%20INDIAN%20ARTS%20and%20CULTURE_3414_(14-06-24%2007_42_33_667%20AM).pdf) |
+| 5264_BPA%20305%20MUSIC_VOCAL_INSTRUMENTION_I_3757_(02-07-24%2007_47_46_110%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5264_BPA%20305%20MUSIC_VOCAL_INSTRUMENTION_I_3757_(02-07-24%2007_47_46_110%20AM).pdf) |
+| 5265_BPA%20306%20MUSIC_VOCAL_INSTRUMENTION_II_4126_(20-06-24%2008_11_42_989%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5265_BPA%20306%20MUSIC_VOCAL_INSTRUMENTION_II_4126_(20-06-24%2008_11_42_989%20AM).pdf) |
+| 5266_BPA%20307%20KATHAK_BHARAT_NATYAM_ODISSI_3758_(02-07-24%2007_47_46_039%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5266_BPA%20307%20KATHAK_BHARAT_NATYAM_ODISSI_3758_(02-07-24%2007_47_46_039%20AM).pdf) |
+| 5267_BPA%20308%20KATTHAK%20DANCE_4127_(20-06-24%2008_11_42_923%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5267_BPA%20308%20KATTHAK%20DANCE_4127_(20-06-24%2008_11_42_923%20AM).pdf) |
+| 5272_BPA%20313%20DRAMA_I_3760_(02-07-24%2007_47_45_935%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5272_BPA%20313%20DRAMA_I_3760_(02-07-24%2007_47_45_935%20AM).pdf) |
+| 5273_BPA%20314%20DRAMA_II_4129_(20-06-24%2008_11_42_829%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20III/5273_BPA%20314%20DRAMA_II_4129_(20-06-24%2008_11_42_829%20AM).pdf) |
+
+---

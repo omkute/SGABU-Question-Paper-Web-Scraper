@@ -1,0 +1,20 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.E/Computer Science_Engineering/Sem VIII
+
+| File Name | URL |
+|------------|-----|
+| AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(1).pdf) |
+| AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(2).pdf) |
+| AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(3).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(3).pdf) |
+| AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(4).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(4).pdf) |
+| AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(5).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3429%20-%20Subject%20-%2010357%20-%20Professional%20Elective-II%20(5).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(1).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(2).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(3).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(3).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(4).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(4).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(5).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(5).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(6).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(6).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(7).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(7).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(8).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(8).pdf) |
+| AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(9).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Computer%20Science_Engineering/Sem%20VIII/AF3440%20-%20Subject%20-%20Professional%20Elective-V%20(9).pdf) |
+
+---

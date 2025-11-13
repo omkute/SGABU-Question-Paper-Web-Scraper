@@ -1,0 +1,10 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B.Pharm/Sem I
+
+| File Name | URL |
+|------------|-----|
+| 2263_BP101T%20HUMAN%20ANATOMY%20AND%20PHYSIOLOGY_I_2579_(08-06-24%2007_31_36_694%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.Pharm/Sem%20I/2263_BP101T%20HUMAN%20ANATOMY%20AND%20PHYSIOLOGY_I_2579_(08-06-24%2007_31_36_694%20AM).pdf) |
+| 2264_BP102T%20PHARMACEUTICAL%20ANALYSIS_2916_(11-06-24%2007_26_25_915%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.Pharm/Sem%20I/2264_BP102T%20PHARMACEUTICAL%20ANALYSIS_2916_(11-06-24%2007_26_25_915%20AM).pdf) |
+| 2265_BP103T%20PHARMACEUTICS_I_3247_(13-06-24%2007_49_59_951%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.Pharm/Sem%20I/2265_BP103T%20PHARMACEUTICS_I_3247_(13-06-24%2007_49_59_951%20AM).pdf) |
+| 2266_BP104T%20PHARMACEUTICAL%20INORGANIC%20CHEMISTRY_3605_(15-06-24%2008_04_32_693%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.Pharm/Sem%20I/2266_BP104T%20PHARMACEUTICAL%20INORGANIC%20CHEMISTRY_3605_(15-06-24%2008_04_32_693%20AM).pdf) |
+
+---

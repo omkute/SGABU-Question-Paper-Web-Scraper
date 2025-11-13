@@ -1,0 +1,11 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B.B.A/Sem V
+
+| File Name | URL |
+|------------|-----|
+| 917_BBA_%20501%20COST%20ACCOUNTING_1676_(01-06-24%2007_31_45_333%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.B.A/Sem%20V/917_BBA_%20501%20COST%20ACCOUNTING_1676_(01-06-24%2007_31_45_333%20AM).pdf) |
+| 918_BBA_%20502%20INDIAN%20ECONOMICS_1917_(04-06-24%2007_33_16_328%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.B.A/Sem%20V/918_BBA_%20502%20INDIAN%20ECONOMICS_1917_(04-06-24%2007_33_16_328%20AM).pdf) |
+| 919_BBA_%20503%20HEALTH%20CARE%20and%20HOSPITALITY%20MANAGEMENT_2228_(06-06-24%2007_33_46_580%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.B.A/Sem%20V/919_BBA_%20503%20HEALTH%20CARE%20and%20HOSPITALITY%20MANAGEMENT_2228_(06-06-24%2007_33_46_580%20AM).pdf) |
+| 920_BBA_%20504%20PERSONAL%20FIANACIAL%20PLANNING_2561_(08-06-24%2007_31_35_922%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.B.A/Sem%20V/920_BBA_%20504%20PERSONAL%20FIANACIAL%20PLANNING_2561_(08-06-24%2007_31_35_922%20AM).pdf) |
+| 921_BBA_%20505%20EVENT%20MANAGEMENT_2904_(11-06-24%2007_26_25_710%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.B.A/Sem%20V/921_BBA_%20505%20EVENT%20MANAGEMENT_2904_(11-06-24%2007_26_25_710%20AM).pdf) |
+
+---

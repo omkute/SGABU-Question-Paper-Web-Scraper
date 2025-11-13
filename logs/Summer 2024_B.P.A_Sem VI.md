@@ -1,0 +1,18 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B.P.A/Sem VI
+
+| File Name | URL |
+|------------|-----|
+| 1420_COMPULSORY%20LANGAUGE%20ENGLISH_571_(07-05-24%2008_10_16_114%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1420_COMPULSORY%20LANGAUGE%20ENGLISH_571_(07-05-24%2008_10_16_114%20AM).pdf) |
+| 1421_COMPULSORY%20LANGAUGE%20MARATHI_816_(09-05-24%2007_40_13_577%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1421_COMPULSORY%20LANGAUGE%20MARATHI_816_(09-05-24%2007_40_13_577%20AM).pdf) |
+| 1422_COMPULSORY%20LANGAUGE%20HINDI_817_(09-05-24%2007_40_13_532%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1422_COMPULSORY%20LANGAUGE%20HINDI_817_(09-05-24%2007_40_13_532%20AM).pdf) |
+| 1423_COMPULSORY%20LANGAUGE%20HERITAGE%20OF%20INDIAN%20ARTS%20and%20CULTURE_1002_(16-05-24%2007_40_00_311%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1423_COMPULSORY%20LANGAUGE%20HERITAGE%20OF%20INDIAN%20ARTS%20and%20CULTURE_1002_(16-05-24%2007_40_00_311%20AM).pdf) |
+| 1424_MUSIC%20(VOCAL%20and%20INSTRUMENTAL)_%20PAPER_I_1187_(18-05-24%2007_46_42_956%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1424_MUSIC%20(VOCAL%20and%20INSTRUMENTAL)_%20PAPER_I_1187_(18-05-24%2007_46_42_956%20AM).pdf) |
+| 1425_MUSIC%20(VOCAL%20and%20INSTRUMENTAL_)%20PAPER_II_1334_(21-05-24%2007_50_37_541%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1425_MUSIC%20(VOCAL%20and%20INSTRUMENTAL_)%20PAPER_II_1334_(21-05-24%2007_50_37_541%20AM).pdf) |
+| 1426_TABLA%20THEORY_%20PAPER_I_1188_(18-05-24%2007_46_42_934%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1426_TABLA%20THEORY_%20PAPER_I_1188_(18-05-24%2007_46_42_934%20AM).pdf) |
+| 1427_TABLA%20THEORY_%20PAPER_II_1335_(21-05-24%2007_50_37_519%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1427_TABLA%20THEORY_%20PAPER_II_1335_(21-05-24%2007_50_37_519%20AM).pdf) |
+| 1428_DANCE%20(KATTHAK_%20BHARATNATYAM%20and%20ODDSI)%20PAPER_I_1189_(18-05-24%2007_46_42_915%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1428_DANCE%20(KATTHAK_%20BHARATNATYAM%20and%20ODDSI)%20PAPER_I_1189_(18-05-24%2007_46_42_915%20AM).pdf) |
+| 1429_DANCE%20(KATTHAK_)%20PAPER_II_1336_(21-05-24%2007_50_37_500%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1429_DANCE%20(KATTHAK_)%20PAPER_II_1336_(21-05-24%2007_50_37_500%20AM).pdf) |
+| 1430_DRAMA_%20PAPER_I_1190_(18-05-24%2007_46_42_893%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1430_DRAMA_%20PAPER_I_1190_(18-05-24%2007_46_42_893%20AM).pdf) |
+| 1431_DRAMA_%20PAPER_II_1337_(21-05-24%2007_50_37_476%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20VI/1431_DRAMA_%20PAPER_II_1337_(21-05-24%2007_50_37_476%20AM).pdf) |
+
+---

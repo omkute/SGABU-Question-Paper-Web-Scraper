@@ -1,0 +1,16 @@
+# 📁 question-papers/2024-Papers/Summer 2024/B.P.A/Sem V
+
+| File Name | URL |
+|------------|-----|
+| 1409_COMPULSORY%20LANGAUGE%20MARATHI_3009_(11-06-24%2007_26_39_601%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1409_COMPULSORY%20LANGAUGE%20MARATHI_3009_(11-06-24%2007_26_39_601%20AM).pdf) |
+| 1411_COMPULSORY%20LANGAUGE%20HERITAGE%20OF%20INDIAN%20ARTS%20and%20CULTURE_3333_(13-06-24%2007_50_10_240%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1411_COMPULSORY%20LANGAUGE%20HERITAGE%20OF%20INDIAN%20ARTS%20and%20CULTURE_3333_(13-06-24%2007_50_10_240%20AM).pdf) |
+| 1412_MUSIC%20(VOCAL%20and%20INSTRUMENTAL)_%20PAPER_I_3690_(15-06-24%2008_04_40_654%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1412_MUSIC%20(VOCAL%20and%20INSTRUMENTAL)_%20PAPER_I_3690_(15-06-24%2008_04_40_654%20AM).pdf) |
+| 1413_MUSIC%20(VOCAL%20and%20INSTRUMENTAL_)%20PAPER_II_4055_(19-06-2024%2001_37_30_598%20PM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1413_MUSIC%20(VOCAL%20and%20INSTRUMENTAL_)%20PAPER_II_4055_(19-06-2024%2001_37_30_598%20PM).pdf) |
+| 1414_TABLA%20THEORY_%20PAPER_I_3689_(15-06-24%2008_04_40_675%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1414_TABLA%20THEORY_%20PAPER_I_3689_(15-06-24%2008_04_40_675%20AM).pdf) |
+| 1415_TABLA%20THEORY_%20PAPER_II_4054_(19-06-2024%2001_37_30_565%20PM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1415_TABLA%20THEORY_%20PAPER_II_4054_(19-06-2024%2001_37_30_565%20PM).pdf) |
+| 1416_DANCE%20(KATTHAK_%20BHARATNATYAM%20and%20ODDSI)%20PAPER_I_3691_(15-06-24%2008_04_40_633%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1416_DANCE%20(KATTHAK_%20BHARATNATYAM%20and%20ODDSI)%20PAPER_I_3691_(15-06-24%2008_04_40_633%20AM).pdf) |
+| 1417_DANCE%20(KATTHAK_)%20PAPER_II_4056_(19-06-2024%2001_37_30_613%20PM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1417_DANCE%20(KATTHAK_)%20PAPER_II_4056_(19-06-2024%2001_37_30_613%20PM).pdf) |
+| 1418_DRAMA_%20PAPER_I_3692_(15-06-24%2008_04_40_614%20AM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1418_DRAMA_%20PAPER_I_3692_(15-06-24%2008_04_40_614%20AM).pdf) |
+| 1419_DRAMA_%20PAPER_II_4057_(19-06-2024%2001_37_30_629%20PM).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/B.P.A/Sem%20V/1419_DRAMA_%20PAPER_II_4057_(19-06-2024%2001_37_30_629%20PM).pdf) |
+
+---

@@ -1,0 +1,12 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.Tech/Chemical Engineering/Sem VII
+
+| File Name | URL |
+|------------|-----|
+| AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VII/AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(1).pdf) |
+| AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VII/AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(2).pdf) |
+| AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(3).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VII/AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(3).pdf) |
+| AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(4).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VII/AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(4).pdf) |
+| AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(5).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VII/AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(5).pdf) |
+| AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(6).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Chemical%20Engineering/Sem%20VII/AF3288%20-%20Subject%20-%20Professional%20Core%20Course%20-%20Plant%20Design%20%26%20Process%20Engineerin%20(6).pdf) |
+
+---

@@ -1,0 +1,14 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.Tech/Food Pulp paper oil Paint Petro.Tech/Sem VI
+
+| File Name | URL |
+|------------|-----|
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(1).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(1).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(2).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(2).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(3).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(3).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(4).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(4).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(5).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(5).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(6).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(6).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(7).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(7).pdf) |
+| AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(8).pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.Tech/Food%20Pulp%20paper%20oil%20Paint%20Petro.Tech/Sem%20VI/AF3107%20-%20Subject%20-%20Pulp%20and%20Paper%20Technology%20-%206%20PT%20(8).pdf) |
+
+---

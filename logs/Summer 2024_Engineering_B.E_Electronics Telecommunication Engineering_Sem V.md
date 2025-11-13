@@ -1,0 +1,16 @@
+# 📁 question-papers/2024-Papers/Summer 2024/Engineering/B.E/Electronics Telecommunication Engineering/Sem V
+
+| File Name | URL |
+|------------|-----|
+| AF2817%20-%20Subject%20-%20Microcontro.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2817%20-%20Subject%20-%20Microcontro.pdf) |
+| AF2818%20-%20Subject%20-%20Control%20System.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2818%20-%20Subject%20-%20Control%20System.pdf) |
+| AF2819%20-%20Subject%20-%20Digital%20Signal%20Processing.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2819%20-%20Subject%20-%20Digital%20Signal%20Processing.pdf) |
+| AF2820%20-%20Subject%20-%20Professional%20Elective-I%20-%20Power%20Electronics.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2820%20-%20Subject%20-%20Professional%20Elective-I%20-%20Power%20Electronics.pdf) |
+| AF2821%20-%20Subject%20-%20Professional%20Elective-I%20-%20Fiber%20Optic%20Communicati.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2821%20-%20Subject%20-%20Professional%20Elective-I%20-%20Fiber%20Optic%20Communicati.pdf) |
+| AF2822%20-%20Subject%20-%20Professional%20Elective-I%20-%20Speech%20and%20Audio%20Processing.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2822%20-%20Subject%20-%20Professional%20Elective-I%20-%20Speech%20and%20Audio%20Processing.pdf) |
+| AF2823%20-%20Subject%20-%20Open%20Elective-I%20-%20Sensors%20and%20Transducers.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2823%20-%20Subject%20-%20Open%20Elective-I%20-%20Sensors%20and%20Transducers.pdf) |
+| AF2824%20-%20Subject%20-%20Open%20Elective-I%20-%20Data%20Struc.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2824%20-%20Subject%20-%20Open%20Elective-I%20-%20Data%20Struc.pdf) |
+| AF2825%20-%20Subject%20-%20Open%20Elective-I%20-%20Introduction%20to%20Java.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2825%20-%20Subject%20-%20Open%20Elective-I%20-%20Introduction%20to%20Java.pdf) |
+| AF2826%20-%20Subject%20-%20Open%20Elective-I%20-%20Basic%20Electronics%20Devices%20and%20Circuits.pdf | [🔗 Open File](https://www.sgbaukrc.ac.in/question-papers/2024-Papers/Summer%202024/Engineering/B.E/Electronics%20Telecommunication%20Engineering/Sem%20V/AF2826%20-%20Subject%20-%20Open%20Elective-I%20-%20Basic%20Electronics%20Devices%20and%20Circuits.pdf) |
+
+---
