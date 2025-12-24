@@ -1,0 +1,21 @@
+# .gitignore    
+# Ignore node_modules directory
+node_modules/           
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+# Ignore build output directory
+dist/
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+# Ignore IDE specific files
+.vscode/
+.idea/
+# Ignore coverage reports
+coverage/
+# Ignore temporary files
+*.tmp
+*.swp
+# Ignore compiled files
